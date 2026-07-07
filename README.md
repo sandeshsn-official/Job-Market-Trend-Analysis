@@ -76,5 +76,5 @@ streamlit run Home.py
 
 ## 👨‍💻 Author
 
-Sandesh S N
+Sandesh S N , 
 M.Tech Data Science
