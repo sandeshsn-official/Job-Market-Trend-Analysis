@@ -65,6 +65,12 @@ streamlit run Home.py
 
 <img width="1907" height="917" alt="image" src="https://github.com/user-attachments/assets/e587c9d0-e479-4c01-bdc1-c1cd4d64ba67" />
 
+<img width="1917" height="911" alt="image" src="https://github.com/user-attachments/assets/a40ec9f3-225e-473e-9a05-5fd0604e74d3" />
+
+<img width="1918" height="898" alt="image" src="https://github.com/user-attachments/assets/c4a15eba-e036-4866-9bf2-c66a74a07448" />
+
+
+
 
 
 
