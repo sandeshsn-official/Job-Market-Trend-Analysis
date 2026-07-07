@@ -63,7 +63,10 @@ streamlit run Home.py
 
 ## 📷 Screenshots
 
-(Add dashboard screenshots here)
+<img width="1907" height="917" alt="image" src="https://github.com/user-attachments/assets/e587c9d0-e479-4c01-bdc1-c1cd4d64ba67" />
+
+
+
 
 ## 👨‍💻 Author
 
